@@ -25,6 +25,7 @@ https://www.go4ict.be/DigiAntumID/
 Installation
 ============
 * Only need to activate SOAP in PHP (no database needed to try this code)
+* Aks for your AntumID SOAP Token-key to use this within your project, request for token GUID key at support@antumid.be 
 
 Notes
 =====
