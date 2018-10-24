@@ -3,9 +3,7 @@ A SOAP based version of Open AntumID (DigiByte DigiID)
 
 **OpenAntumID SOAP Authentication Open Protocol**
 
-Pure DigiByte sites and applications shouldn’t have to rely on artificial identification methods such as usernames and passwords. DigiID is an open protocol allowing simple and secure authentication using public-key cryptography.
-
-Classical password authentication is an insecure process that could be solved with public key cryptography. The problem however is that it theoretically offloads a lot of complexity and responsibility on the user. Managing private keys securely is complex. However this complexity is already being addressed in the Bitcoin ecosystem. So doing public key authentication is practically a free lunch to digibyters.
+Easily integrate the DigiD / Open AntumID into php websites thanks to the SOAP protocol. AntumID has an API available that does not require a digiid library, pure blockchain login without any problems.
 
 Demo AntumID Starting page
 ==========================
@@ -24,7 +22,7 @@ https://www.go4ict.be/DigiAntumID/
 
 Installation
 ============
-* Only need to activate SOAP in PHP (no database needed to try this code)
+* Only need to activate SOAP in PHP (no database needed to try this code), SOAP check -> using phpinfo().
 * Aks for your AntumID SOAP Token-key to use this within your project, request for token GUID key at support@antumid.be 
 
 Notes
